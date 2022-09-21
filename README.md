@@ -23,7 +23,8 @@ print("Exponentiation of a given number:",c)
 ```
 
 ## Output:
-!file:///home/sec/Pictures/Screenshots/Screenshot%20from%202022-09-21%2019-03-59.png
+![Screenshot from 2022-09-21 19-03-59](https://user-images.githubusercontent.com/113497680/191518542-7fdcfc7a-1195-44a4-b3ac-80df1a648055.png)
+
 
 
 
