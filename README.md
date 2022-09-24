@@ -25,8 +25,5 @@ print("Exponentiation of a given number:",c)
 ## Output:
 ![Screenshot from 2022-09-21 19-03-59](https://user-images.githubusercontent.com/113497680/191518542-7fdcfc7a-1195-44a4-b3ac-80df1a648055.png)
 
-
-
-
 ## Result:
 Thus the program to find the exponentiation of a given number is written and verified using python programming.
